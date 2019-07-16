@@ -1,7 +1,7 @@
 # Python module for [Ocean Optics](http://www.oceanoptics.com/) spectrometers
 
 
-## is fork of https://github.com/ap--/python-seabreeze  has the purpose to provide a pypi package for python 3.7 on windows.
+## This fork of https://github.com/ap--/python-seabreeze  has the purpose to provide a pypi package for python 3.7 on windows.
 
 
 [![Anaconda](https://anaconda.org/poehlmann/python-seabreeze/badges/version.svg)](https://anaconda.org/poehlmann/python-seabreeze)
